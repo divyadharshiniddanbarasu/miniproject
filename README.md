@@ -1,5 +1,5 @@
 # Title of the Project
-Alzheimer's Disease using deep learning
+Alzheimer's Disease Detection using deep learning
 # About
 Deep learning for Alzheimer's disease diagnosis uses neural networks to examine intricate patterns in
 medical data. Experts utilize approaches including convolutional neural networks (CNNs) on genomic
@@ -13,7 +13,9 @@ Networks perform effectively with sequential data, like the temporal patterns in
 Convolutional Neural Networks are better at image processing tasks, resulting in them useful in
 understanding brain scans.
 # Features
-Early Detection: High accuracy in identifying early signs of AD.
+```
+Early Detection:
+High accuracy in identifying early signs of AD.
 Multimodal Data Integration: Combines MRI, genetic, and cognitive data for comprehensive analysis.
 Automated Feature Extraction: Finds complex patterns without manual input.
 Progression Tracking: Analyzes longitudinal data for monitoring disease development.
@@ -21,3 +23,4 @@ Personalized Predictions: Tailors insights to individual risk profiles.
 Biomarker Identification: Detects predictive biomarkers like amyloid plaques and brain atrophy.
 Explainability: Uses XAI for clearer model interpretations.
 Reduced Error Rates: Decreases false positives/negatives.
+```

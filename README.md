@@ -45,6 +45,21 @@ Reduced Error Rates: Minimizes false positives and negatives.
 - **Data Augmentation Methods**: Techniques like image rotation, flipping, and scaling to enhance the model’s generalizability, especially with limited datasets.
   
 - **Optimized Model Architecture**: Model selection suited to medical imaging, such as CNNs, transfer learning models, or 3D networks for volumetric analysis.
-  
+  # System Architecture
+  ![Screenshot 2024-11-13 183745](https://github.com/user-attachments/assets/73755331-5e90-4caf-828c-3c412f76be1c)
+# Output
+# Output1 - Predicted Output
+![Screenshot 2024-11-13 184207](https://github.com/user-attachments/assets/50b677fd-c40e-4539-9498-773f1a3583fb)
 
+# Output1 - Predicted Values
+![Screenshot 2024-11-13 184223](https://github.com/user-attachments/assets/0b12132c-4d93-43f3-a552-8bb7cfccd48c)
 
+# Results and Impact
+Alzheimer’s disease detection using deep learning has led to high accuracy and early diagnosis by identifying subtle brain changes, improving patient outcomes through timely intervention. These models reveal new biomarkers, advancing research and treatment development. They also reduce diagnostic errors and personalize risk assessments, offering tailored predictions for individuals. The impact includes improved quality of life, potential healthcare cost savings, and broader diagnostic access worldwide, even in areas lacking neurological expertise.
+
+# Articles published / References
+1. Mendez M F 2012 Early-onset Alzheimer's disease: non amnestic subtypes and type 2
+AD Archives of Medical Research 43 677-85
+2. Ballard C, Gauthier S et al 2011 Alzheimer's disease Lancet 377 1019-31
+3. Dayan Peter, Abbott Laurence F et al 2001 Theoretical Neuroscience – Computational
+and Mathematical Modelling of Neural Systems (MIT press)

@@ -57,7 +57,7 @@ Reduced Error Rates: Minimizes false positives and negatives.
 # Results and Impact
 Alzheimer’s disease detection using deep learning has led to high accuracy and early diagnosis by identifying subtle brain changes, improving patient outcomes through timely intervention. These models reveal new biomarkers, advancing research and treatment development. They also reduce diagnostic errors and personalize risk assessments, offering tailored predictions for individuals. The impact includes improved quality of life, potential healthcare cost savings, and broader diagnostic access worldwide, even in areas lacking neurological expertise.
 
-# Articles published / References
+## Articles published / References
 1. Mendez M F 2012 Early-onset Alzheimer's disease: non amnestic subtypes and type 2
 AD Archives of Medical Research 43 677-85
 2. Ballard C, Gauthier S et al 2011 Alzheimer's disease Lancet 377 1019-31

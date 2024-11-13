@@ -1,4 +1,4 @@
-# Title of the Project
+## Title of the Project
 Alzheimer's Disease Detection using deep learning
 # About
 Deep learning for Alzheimer's disease diagnosis uses neural networks to examine intricate patterns in

@@ -13,14 +13,12 @@ Networks perform effectively with sequential data, like the temporal patterns in
 Convolutional Neural Networks are better at image processing tasks, resulting in them useful in
 understanding brain scans.
 # Features
-```
-Early Detection:
-High accuracy in identifying early signs of AD.
-Multimodal Data Integration: Combines MRI, genetic, and cognitive data for comprehensive analysis.
-Automated Feature Extraction: Finds complex patterns without manual input.
-Progression Tracking: Analyzes longitudinal data for monitoring disease development.
-Personalized Predictions: Tailors insights to individual risk profiles.
-Biomarker Identification: Detects predictive biomarkers like amyloid plaques and brain atrophy.
-Explainability: Uses XAI for clearer model interpretations.
-Reduced Error Rates: Decreases false positives/negatives.
-```
+Early Detection: High accuracy in identifying early signs of Alzheimer's disease.
+Multimodal Data Integration: Combines MRI, genetic, and cognitive data for thorough analysis.
+Automated Feature Extraction: Detects complex patterns without needing manual input.
+Progression Tracking: Analyzes longitudinal data to monitor disease development.
+Personalized Predictions: Provides insights tailored to individual risk profiles.
+Biomarker Identification: Recognizes predictive markers like amyloid plaques and brain atrophy.
+Explainability: Uses explainable AI (XAI) for clearer model interpretations.
+Reduced Error Rates: Minimizes false positives and negatives.
+
